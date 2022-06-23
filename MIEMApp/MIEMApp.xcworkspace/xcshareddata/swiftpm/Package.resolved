@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "NavigationModule",
+        "repositoryURL": "https://git.miem.hse.ru/19469/navigationmodule.git",
+        "state": {
+          "branch": "feature/makhmudov",
+          "revision": "068c8cc1daf5e8c947d09446c6344a3435ed0225",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
